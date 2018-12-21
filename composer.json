@@ -1,0 +1,24 @@
+{
+  "name": "arashghamkhari/opt",
+  "description": "Opt is a very simple option managing library for PHP.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arash Ghamkhari",
+      "email": "dev@ghamkhari.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Opt\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Opt\\Tests\\": "tests"
+    }
+  }
+}
