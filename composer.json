@@ -1,6 +1,7 @@
 {
   "name": "arashghamkhari/opt",
   "description": "Opt is a very simple option managing library for PHP.",
+  "keywords": ["options", "option-managing", "class-option-managing"],
   "license": "MIT",
   "authors": [
     {
