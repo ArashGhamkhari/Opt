@@ -8,6 +8,9 @@
       "email": "dev@ghamkhari.com"
     }
   ],
+  "require": {
+    "php": ">=7.0"
+  },
   "require-dev": {
     "phpunit/phpunit": "^7"
   },
